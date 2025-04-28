@@ -40,13 +40,13 @@ Por lo tanto, espero que este trabajo no solamente ayude en la comprensión del 
 ## **Acerca de mi** ##
 Soy Economista con formación en finanzas y programación. Dentro de mis interese se encuentra la política monetaria, mercados financieros, *portfolio management* y la programación.
 
-La idea de este proyecto surgió a partir de que en algunos trabajos de la universidad, y por mi interés por las inversiones, quería tener una herramienta que me permitiera ver el comportamiento de las empresas que más me llamaban la atención o que eran mencionadas frecuentemente en las noticias. Es por esto que decidí comenzar este proyecto con la idea de realizar análisis simultáneo de varios activos financieros, o conocer cuáles eran las empresas del S&P500 que tenían el mejor y peor desempeño; pero conforme iba avanzado en este trabajo, me di cuenta que podía agregar una introducción para trabajar con **yfinacne** , además de implementar las tres librerías para hacer gráficas para dar a conocer a otros estudiantes de economía o cualquier persona interesada en estos temas los fundamentos para que puedan implementar estas herramientas en sus actividades escolares o laborales. 
+La idea de este proyecto surgió a partir de que en algunos trabajos de la universidad, y por mi interés por las inversiones, quería tener una herramienta que me permitiera ver el comportamiento de las empresas que más me llamaban la atención o que eran mencionadas frecuentemente en las noticias. Es por esto que decidí comenzar este proyecto con la idea de realizar análisis simultáneo de varios activos financieros, o conocer cuáles eran las empresas del S&P500 que tenían el mejor y peor desempeño; pero conforme iba avanzado en este trabajo, me di cuenta que podía agregar una introducción a los elementos de **yfinacne** , además de trabajar con las tres librerías para hacer gráficas para dar a conocer a otros estudiantes o cualquier persona interesada en estos temas los fundamentos para que puedan implementar estas herramientas en sus actividades escolares o laborales. 
 
-Pueden encontrar más información acerca de mi en LinkedIn
+Pueden encontrar más información acerca de mi en LinkedIn:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-salmoran">
-    <img src="https://github.com/user-attachments/assets/b944e977-6ca1-44e5-b7b5-631e19a4f4ba" alt="linkedin_page" width="400">
+    <img src="https://github.com/user-attachments/assets/b944e977-6ca1-44e5-b7b5-631e19a4f4ba" alt="linkedin_page" width="600">
   </a>
 </p>
 
