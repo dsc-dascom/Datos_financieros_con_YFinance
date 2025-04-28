@@ -23,7 +23,7 @@ El repositorio va a está estructurado en cuatro apartados, los cuales cumplen c
   - 1.- Introducción a los elementos de la librería **yfinance**: análisis individual de una acción.
   - 2.- Análisis simultáneo de varios tickers de distinta clase (forex, bonds, indexes & stocks).
   - 3.- Monitor de las empresas que componen el índice S&P500. 
-                      4 Herramientas de análisis técnico.
+  - 4.- Herramientas de análisis técnico.
 
 En cada sección van a poder encontrar la descripción de las librerías y objetos utilizados, así como la documentación pertinente. 
 Además, me adelanto en advertir al lector que en en cada uno de los primero tres apartados se utilizan diferentes librerías para graficar la información obtenida de **yfinance**:
