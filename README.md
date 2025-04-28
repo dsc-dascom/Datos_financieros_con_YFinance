@@ -38,7 +38,7 @@ Por lo tanto, espero que este trabajo no solamente ayude en la comprensión del 
 ---
 
 ## **Acerca de mi** ##
-Soy Economista con formación en finanzas y programación. Dentro de mis interese se encuentra la política monetaria, mercados financieros, *portfolio management* y la programación.
+Soy Economista con formación en finanzas y programación. Dentro de mis intereses se encuentra la política monetaria, mercados financieros, *portfolio management* y la programación.
 
 La idea de este proyecto surgió a partir de que en algunos trabajos de la universidad, y por mi interés por las inversiones, quería tener una herramienta que me permitiera ver el comportamiento de las empresas que más me llamaban la atención o que eran mencionadas frecuentemente en las noticias. Es por esto que decidí comenzar este proyecto con la idea de realizar análisis simultáneo de varios activos financieros, o conocer cuáles eran las empresas del S&P500 que tenían el mejor y peor desempeño; pero conforme iba avanzado en este trabajo, me di cuenta que podía agregar una introducción a los elementos de **yfinacne** , además de trabajar con las tres librerías para hacer gráficas para dar a conocer a otros estudiantes o cualquier persona interesada en estos temas los fundamentos para que puedan implementar estas herramientas en sus actividades escolares o laborales. 
 
