@@ -42,7 +42,7 @@ Soy Economista con formación en finanzas y programación. Dentro de mis interes
 
 La idea de este proyecto surgió a partir de que en algunos trabajos de la universidad, y por mi interés por las inversiones, quería tener una herramienta que me permitiera ver el comportamiento de las empresas que más me llamaban la atención o que eran mencionadas frecuentemente en las noticias. Es por esto que decidí comenzar este proyecto con la idea de realizar análisis simultáneo de varios activos financieros, o conocer cuáles eran las empresas del S&P500 que tenían el mejor y peor desempeño; pero conforme iba avanzado en este trabajo, me di cuenta que podía agregar una introducción para trabajar con **yfinacne** , además de implementar las tres librerías para hacer gráficas para dar a conocer a otros estudiantes de economía o cualquier persona interesada en estos temas los fundamentos para que puedan implementar estas herramientas en sus actividades escolares o laborales. 
 
-Pueden encontrar más información acerca de mi en mi en mi perfíl de LinkedIn
+Pueden encontrar más información acerca de mi en mí en LinkedIn
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-salmoran">
