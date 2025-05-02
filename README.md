@@ -5,7 +5,7 @@
 
 Una vez que se obtiene la información, se deben procesar los datos y generar la correspondiente gráfica que muestra el comportamiento de los instrumentos financieros, por lo que en este repositorio pueden encontrar algunos ejemplos de cómo trabajar con la librería **yfinance** y qué opciones existen para crear gráficas con datos financieros. 
 
-*Nota: El ambiente de programación utilizado para este proyecto fue Google Colab.*
+*Nota: El ambiente de programación utilizado para este trabajo fue Google Colab.*
 
 ---
 
