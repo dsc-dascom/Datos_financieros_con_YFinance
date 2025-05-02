@@ -1,13 +1,19 @@
 
 # ¿Qué es *yfinance*?
 
-**Yfinance** es una librería de código abierto que permite acceder a la información financiera de **Yahoo Finance**. De esta forma se pueden consultar las series históricas de los precios de empresas e índices que cotizan en el mercado bursátil estadounidense, principalmente, pero de igual forma se puede encontrar datos de empresas mexicanas, europeas y asiáticas siempre y cuando exista información disponible en la página de [Yahoo Finance](https://finance.yahoo.com/). 
+**[Yfinance](https://yfinance-python.org/index.html)** es una librería de código abierto que permite acceder a la información financiera de **Yahoo Finance**. De esta forma se pueden consultar las series históricas de los precios de empresas e índices que cotizan en el mercado bursátil estadounidense, principalmente, pero de igual forma se puede encontrar datos de empresas mexicanas, europeas y asiáticas siempre y cuando exista información disponible en la página de [Yahoo Finance](https://finance.yahoo.com/). 
 
 Una vez que se obtiene la información, se deben procesar los datos y generar la correspondiente gráfica que muestra el comportamiento de los instrumentos financieros, por lo que en este repositorio pueden encontrar algunos ejemplos de cómo trabajar con la librería **yfinance** y qué opciones existen para crear gráficas con datos financieros. 
 
+*Nota: El ambiente de programación utilizado para este proyecto fue Google Colab.*
+
 ---
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/2207cffa-9bd9-4b65-bb35-5dcb4b90c3f5" alt="yfinance & python logo" width="800"> </p>
+<p align="center">
+  <a href="https://yfinance-python.org/index.html">
+    <img src="https://github.com/user-attachments/assets/2207cffa-9bd9-4b65-bb35-5dcb4b90c3f5" alt="yfinance page" width="800">
+  </a>
+</p>
 
 ---
 
@@ -23,9 +29,9 @@ El repositorio está estructurado en cuatro apartados, los cuales cumplen con ta
 
 En cada sección van a poder encontrar la descripción de los objetos utilizados y la documentación pertinente.
 Además, me adelanto en comentar que en cada uno de los primeros tres apartados se usan diferentes librerías para graficar la información obtenida:
-- **mplfinance** (para realizar gráficas de velas)
-- **matplotlib** (gran capacidad de personalización)
-- **plotly** (gráficas interactivas)
+- **[mplfinance](https://github.com/matplotlib/mplfinance)** (para realizar gráficas de velas)
+- **[matplotlib](https://matplotlib.org/stable/index.html)** (gran capacidad de personalización)
+- **[plotly](https://plotly.com/python/)** (gráficas interactivas)
 
 <br>
 
