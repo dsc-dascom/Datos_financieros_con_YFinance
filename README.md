@@ -21,7 +21,7 @@ Una vez que se obtiene la información, se deben procesar los datos y generar la
 El repositorio está estructurado en cuatro apartados, los cuales cumplen con tareas específicas:
 
  1. Introducción a los elementos de la librería **yfinance**: análisis individual de una acción.
- 2. Análisis simultáneo de varios tickers de distinta clase (forex, bonds, indexes & stocks).
+ 2. Análisis simultáneo de varios tickers de distinta clase: forex, bonds, indexes & stocks.
  3. Monitor de las empresas que componen el índice S&P500. 
  4. Herramientas de análisis técnico.
 
