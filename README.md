@@ -23,12 +23,11 @@ En la carpeta de [Ejemplos_con_YFinance](https://github.com/dsc-dascom/Datos_fin
  1. Introducción a los elementos de la librería **yfinance**: análisis individual de una acción. [Ver](https://github.com/dsc-dascom/Datos_financieros_con_YFinance/blob/main/Ejemplos_con_YFinance/1.An%C3%A1lisis_individual_de_una_acci%C3%B3n.ipynb)
  2. Análisis simultáneo de varios tickers de distinta clase: forex, bonds, indexes & stocks. [Ver](https://github.com/dsc-dascom/Datos_financieros_con_YFinance/blob/main/Ejemplos_con_YFinance/2.An%C3%A1lisis_simult%C3%A1neo_de_varios_tickers.ipynb)
  3. Monitor de las empresas que componen el índice S&P500. 
- 4. Herramientas de análisis técnico.
 
 <br>
 
 En cada sección van a poder encontrar la descripción de los objetos utilizados y la documentación pertinente.
-Además, me adelanto en comentar que en cada uno de los primeros tres apartados se usan diferentes librerías para graficar la información obtenida:
+Además, me adelanto en comentar que en cada uno de los apartados se usan diferentes librerías para graficar la información obtenida:
 - **[mplfinance](https://github.com/matplotlib/mplfinance)** (para realizar gráficas de velas)
 - **[matplotlib](https://matplotlib.org/stable/index.html)** (gran capacidad de personalización)
 - **[plotly](https://plotly.com/python/)** (gráficas interactivas)
