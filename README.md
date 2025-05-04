@@ -1,7 +1,7 @@
 
 # ¿Qué es *yfinance*?
 
-**[Yfinance](https://yfinance-python.org/index.html)** es una librería de código abierto que permite acceder a la información financiera de **Yahoo Finance**. De esta forma se pueden consultar las series históricas de los precios de empresas e índices que cotizan en el mercado bursátil estadounidense, principalmente, pero de igual forma se puede encontrar datos de empresas mexicanas, europeas y asiáticas siempre y cuando exista información disponible en la página de [Yahoo Finance](https://finance.yahoo.com/). 
+**[Yfinance](https://yfinance-python.org/index.html)** es una librería de código abierto que permite acceder a la información financiera de **Yahoo Finance**. De esta forma se pueden consultar las series históricas de los precios de empresas e índices que cotizan en el mercado bursátil estadounidense, principalmente, pero de igual forma se pueden encontrar datos de empresas mexicanas, europeas y asiáticas siempre y cuando exista información disponible en la página de [Yahoo Finance](https://finance.yahoo.com/). 
 
 Una vez que se obtiene la información, se deben procesar los datos y generar la correspondiente gráfica que muestra el comportamiento de los instrumentos financieros, por lo que en este repositorio pueden encontrar algunos ejemplos de cómo trabajar con la librería **yfinance** y qué opciones existen para crear gráficas con datos financieros. 
 
@@ -26,8 +26,8 @@ En la carpeta de [Ejemplos_con_YFinance](https://github.com/dsc-dascom/Datos_fin
 
 <br>
 
-En cada sección van a poder encontrar la descripción de los objetos utilizados y la documentación pertinente.
-Además, me adelanto en comentar que en cada uno de los apartados se usan diferentes librerías para graficar la información obtenida:
+En cada sección hay una descripción de los objetos utilizados y la documentación pertinente.
+Además, en cada uno de los apartados se usan diferentes librerías para graficar la información obtenida:
 - **[mplfinance](https://github.com/matplotlib/mplfinance)** (para realizar gráficas de velas)
 - **[matplotlib](https://matplotlib.org/stable/index.html)** (gran capacidad de personalización)
 - **[plotly](https://plotly.com/python/)** (gráficas interactivas)
