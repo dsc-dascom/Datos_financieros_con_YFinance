@@ -18,7 +18,7 @@ Una vez que se obtiene la información, se deben procesar los datos y generar la
 ---
 
 # **Composición del proyecto**   :open_file_folder:
-En la carpeta de [Ejemplos_con_YFinance](https://github.com/dsc-dascom/Datos_financieros_con_YFinance/tree/main/Ejemplos_con_YFinance) pueden encontrar cuatro trabajos diferentes que cumplen con tareas específicas:
+En la carpeta de [Ejemplos_con_YFinance](https://github.com/dsc-dascom/Datos_financieros_con_YFinance/tree/main/Ejemplos_con_YFinance) pueden encontrar tres trabajos diferentes que cumplen con tareas específicas:
 
  1. Introducción a los elementos de la librería **yfinance**: análisis individual de una acción. [Ver](https://github.com/dsc-dascom/Datos_financieros_con_YFinance/blob/main/Ejemplos_con_YFinance/1.An%C3%A1lisis_individual_de_una_acci%C3%B3n.ipynb)
  2. Análisis simultáneo de varios tickers de distinta clase: forex, bonds, indexes & stocks. [Ver](https://github.com/dsc-dascom/Datos_financieros_con_YFinance/blob/main/Ejemplos_con_YFinance/2.An%C3%A1lisis_simult%C3%A1neo_de_varios_tickers.ipynb)
