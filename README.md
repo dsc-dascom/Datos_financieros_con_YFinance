@@ -38,6 +38,22 @@ Por lo tanto, espero que este trabajo no solamente ayude en la comprensión del 
 
 ---
 
+# Video de apoyo   :computer:
+
+Como una forma de ahcer mas comprensible e interactivo este proyecto, van a poder encontrar en youtube una serie de videos en los que realizo ejemplos con los trabajos anteriormente mencionados.
+
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/@dsc-econ">
+    <img src="https://github.com/user-attachments/assets/ea03e075-5617-4d87-a1a1-09d49854da74" alt="yt_canal" width="600">
+  </a>
+</p>
+
+<br>
+
+---
+
 # **Acerca de mi** ##
 Mi nombre es Daniel y soy economista con formación en finanzas y programación. Dentro de mis intereses se encuentra el análisis de mercados financieros, *portfolio management* y la programación.
 
