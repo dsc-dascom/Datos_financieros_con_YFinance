@@ -3,7 +3,7 @@
 
 **[Yfinance](https://yfinance-python.org/index.html)** es una librería de código abierto que permite acceder a la información financiera de **Yahoo Finance**. De esta forma se pueden consultar las series históricas de los precios de empresas e índices que cotizan en el mercado bursátil estadounidense, principalmente, pero de igual forma se pueden encontrar datos de empresas mexicanas, europeas y asiáticas siempre y cuando exista información disponible en la página de [Yahoo Finance](https://finance.yahoo.com/). 
 
-Una vez que se obtiene la información, se deben procesar los datos y generar la correspondiente gráfica que muestra el comportamiento de los instrumentos financieros, por lo que en este repositorio pueden encontrar algunos ejemplos de cómo trabajar con la librería **yfinance** y qué opciones existen para crear gráficas con datos financieros de las empresas que cotizan el el S&P 500. 
+Una vez que se obtiene la información, se deben procesar los datos y generar la correspondiente gráfica que muestra el comportamiento de los instrumentos financieros, por lo que en este repositorio pueden encontrar algunos ejemplos de cómo trabajar con la librería **yfinance** y qué opciones existen para crear gráficas con datos financieros de las empresas que cotizan, por ejemplo, en el S&P 500. 
 
 *Nota: El ambiente de programación utilizado para este trabajo fue Google Colab.*
 
