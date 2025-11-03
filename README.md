@@ -40,7 +40,7 @@ Por lo tanto, espero que este trabajo no solamente ayude en la comprensión del 
 
 # Video de apoyo   :computer:
 
-Como una forma de ahcer mas comprensible e interactivo este proyecto, van a poder encontrar en youtube una serie de videos en los que realizo ejemplos con los trabajos anteriormente mencionados.
+Como una forma de hacer más comprensible e interactivo este proyecto, van a poder encontrar en youtube una serie de videos en los que realizo ejemplos con los trabajos anteriormente mencionados.
 
 <br>
 
